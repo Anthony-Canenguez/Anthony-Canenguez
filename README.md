@@ -1,5 +1,4 @@
-<h1>Hi, I'm Anthony Canenguez, an <a href="www.linkedin.com/in/
-anthony-canenguez
+<h1>Hi, I'm Anthony Canenguez, an <a href="https://www.linkedin.com/in/anthony-canenguez/
 ">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
